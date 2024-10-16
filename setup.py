@@ -67,7 +67,7 @@ setup(
     ],
     install_requires=[
         # eg: 'aspectlib==1.1.1', 'six>=1.7',
-        'beautifulsoup4==4.6.3', 'aiohttp==3.4.4'
+        'beautifulsoup4==4.6.3', 'aiohttp==3.10.2'
     ],
     extras_require={
         # eg:
